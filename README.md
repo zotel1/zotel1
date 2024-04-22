@@ -18,10 +18,11 @@
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
+
 <h3> 🤝🏻 Conecta conmigo! </h3>
 
 <p align="center">
-&nbsp; <a href="www.linkedin.com/in/cristian-sigel-3b9573211" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/cristian-sigel-3b9573211" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="zotelsigel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
