@@ -1,7 +1,7 @@
 
         
-<h2> Buenas! Soy Cris🧉 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<h2><img src="https://github.com/zotel1/encriptador-challenge/blob/main/img/logo-carpi-edit.png" width="60"> Buenas! Soy Cris🧉 </h2>
+<img align="right" alt="GIF" src="https://github.com/zotel1/encriptador-challenge/blob/main/img/carpi-pc.png" width="230"/>
 
 <h3> 👨🏻‍💻 Sobre mí </h3>
 
@@ -9,14 +9,19 @@
 - 🤔 &nbsp; Explorando nuevas tecnologias del lado del back y reforzando un poquito el front.
 - 🎓 &nbsp; Estudiando de manera autodidacta.
 - 💼 &nbsp; Full Stack developer en formación.
-- 🌱 &nbsp; Entusiasta por el desarrollo web.
-- 🧉 &nbsp; Creo que un buen mate y salir a caminar puede ser el remedio perfecto ante el estres. 
+- 🌱 &nbsp; Entusiasta por el desarrollo web. 
 
 ## <h3>🛠 Stack Tecnologíco</h3>
 
-- 💻 &nbsp; JavaScript | TypeScript | Python | Java | HTML | CSS | | ReactJs | NextJs | Bootstrap
-- 🛢 &nbsp; MySQL | Firebase | MongoDB
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git
+### <h4>Backend 💻</h4>
+
+- 💻 &nbsp; Java-Springboot | JavaScript/TypeScript-NodeJS | Python-Flask
+- 🛢 &nbsp; MySQL | postgreSQL | Firebase | MongoDB
+- 🔧 &nbsp; Jenkins | Linux | Git
+
+### <h4>Frontendend 📲</h4>
+
+- 💻 &nbsp; JavaScript | ReactJs | NextJs | Bootstrap
 
 
 <h3> 🤝🏻 Conecta conmigo! </h3>
