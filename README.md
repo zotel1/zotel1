@@ -21,7 +21,7 @@
 
 ### <h4>Frontendend 📲</h4>
 
-- 💻 &nbsp; JavaScript | ReactJs | NextJs | Bootstrap
+- 💻 &nbsp; HTML-CSS-JavaScript | ReactJs | NextJs | Bootstrap
 
 
 <h3> 🤝🏻 Conecta conmigo! </h3>
