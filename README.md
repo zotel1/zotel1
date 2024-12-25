@@ -1,7 +1,7 @@
 
         
 <h2><img src="https://github.com/zotel1/encriptador-challenge/blob/main/img/logo-carpi-edit.png" width="60"> Buenas! Soy Cris🧉 </h2>
-<img align="right" alt="GIF" src="https://github.com/zotel1/encriptador-challenge/blob/main/img/carpi-pc.png" width="230"/>
+<img align="right" alt="GIF" src="https://github.com/zotel1/encriptador-challenge/blob/main/img/carpi-pc.png" width="205"/>
 
 <h3> 👨🏻‍💻 Sobre mí </h3>
 
